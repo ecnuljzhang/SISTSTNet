@@ -1,6 +1,6 @@
 # SISTSTNet: A New Script Independent Scene Text Style Transfer Network
-![Someresults](/SISTSTNet/pics/someresults.png)
-The source code for 'SISTSTNet: A New Script Independent Scene Text Style Transfer Network' by Lingjun Zhang, Palaiahnakote Shivakumara, Lokesh Nandanwar, Umapada Pal, Yue Lu, Cheng-Lin Liu and Tong Lu. 
+The source code for 'SISTSTNet: A New Script Independent Scene Text Style Transfer Network' by Lingjun Zhang, Palaiahnakote Shivakumara, Lokesh Nandanwar, Umapada Pal, Yue Lu, Cheng-Lin Liu and Tong Lu. <br>
+<img src="/pics/someresults.png" width="500px">
 # Getting Start
 ## Libarary
 | Package |	Version | Source |
@@ -20,7 +20,8 @@ The source code for 'SISTSTNet: A New Script Independent Scene Text Style Transf
 | tensorboard | 2.9.0 | Conda |
 
 ## Dataset
-![dataset](SISTSTNet/pics/Proposed_dataset.png)
+<img src="/pics/Proposed_dataset.png" width="500px">
+
 ### Folder Structure
 The directory hierarchy is shown as follows: 
 ```
