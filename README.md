@@ -52,16 +52,16 @@ It contains the fonts styles for generating the source characters while testing 
 #### 'std_font' folder 
 It contains the standard target characters (Binary Image Standard font) used as input target in Target Encoder Network.
 
-## How to run
-### 1. Prepare dataset
+# How to run
+## 1. Prepare dataset
 Download proposed [dataset](https://drive.google.com/file/d/1K2evs9p3VLeKGWgPJkV-AahD1J5NOZLp/view?usp=sharing). 
-### 2. Train
+## 2. Train
 You can train on proposed dataset with the following code:
 ```
 python train_proposed.py
 ```
 Or you can also download the pretrained [model](https://drive.google.com/file/d/1XXwCE7tmMyELIKp4cRAo7b-DG0LN2I7z/view?usp=sharing).
-### 3. Test
+## 3. Test
 ```
 python test.py
 ```
